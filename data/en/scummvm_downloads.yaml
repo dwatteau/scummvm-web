@@ -354,7 +354,7 @@
     category: scummvm
     subcategory: release
     category_icon: macosppc
-    user_agent: ''
+    user_agent: TenFourFox
     version: 2.6.0
     url: 'scummvm-{$version}-macosx-ppc.dmg'
     name: 'Mac OS X 10.4+ PPC 32 bits (without Sparkle) Disk Image'
